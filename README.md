@@ -1,10 +1,19 @@
 # Cervical-Cancer-Risk-Factors Readme
 
 #### Introduction
-This is a readme file for the Cervical Cancer Risk Factors repository. This was an assignment I intially completed for my machine learning class. The assignment was originally completed in R/RStudio. I revised this assignment as part of my journey to learn Python. The instructions for the original assignment are below.
+This is a readme file for the Cervical Cancer Risk Factors repository. This was a two-part assignment I intially completed for my machine learning class. The assignment was originally completed in R/RStudio. The first part of the assignment was to use the dataset to develop decision tree and random forest models that could accurately detect cervical cancer based on prominent features. The second part of the assignment was to develop a support vector machine model that could accurately detect cervical cancer based on prominent features. I revised this assignment as part of my journey to learn Python. The instructions for the original assignment are below.
+
+#### DT and RF Assignment Instructions
+Consider the the Cervical Cancer (Risk Factors) data set (available from UCI repository) and try to accurately classify Dx.Cancer.
+
+You must compare different approaches and parameters of a) single decision tree and b) random forest.
+
+Evaluation of derived models should follow a correct methodology, comparing different estimates of generalization error (i.e. holdout, cross-validation, bootstrap, ...)
+
+Submit a report (in PDF, generated from R) with the code and the resulting analysis.
 
 
-#### Assignment Instructions
+#### SVM Assignment Instructions
 Consider the the Cervical Cancer (Risk Factors) data set (available from UCI repository) and try to accurately classify Dx.Cancer.
 
 You must compare different approaches and parameters of support vector machines.
